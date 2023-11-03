@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "node-todo-cicd-test:latest"
+    image: "node-app-demo-test:latest"
     ports:
       - "8000:8000"
